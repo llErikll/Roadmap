@@ -5,7 +5,7 @@
 <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/672f688c31d65c235d9f6edf?variant=dark" alt="roadmap.sh"/></a>
 
 * linguagem:
-  - javascript = 8% done
+  - javascript = 13% done
 
 * Areas:
   - Backend beginner - 4% done
